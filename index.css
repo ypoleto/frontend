@@ -1,5 +1,6 @@
 table, th, td{
     border: 1px solid #000000;
+    font-size: 20px;
 }
 .titulo{
     background-color: rgb(54, 54, 54);
@@ -7,6 +8,9 @@ table, th, td{
 }
 th{
     background-color: lightgray;
+}
+th, td{
+    padding: 5px;
 }
 .total{
     background-color: rgb(54, 54, 54);
