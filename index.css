@@ -1,0 +1,14 @@
+table, th, td{
+    border: 1px solid #000000;
+}
+.titulo{
+    background-color: rgb(54, 54, 54);
+    color: white;
+}
+th{
+    background-color: lightgray;
+}
+.total{
+    background-color: rgb(54, 54, 54);
+    color: white;
+}
