@@ -1,20 +1,9 @@
-table, th, td{
+.botao{
+    width: 150px;
+    height: 50px;
     font-size: 20px;
 }
-.titulo{
-    background-color: rgb(54, 54, 54);
-    color: white;
-}
-th{
-    background-color: lightgray;
-}
-td{
-    border: 1px solid lightgray;
-}
-th, td{
-    padding: 8px 20px;
-}
-.total{
-    background-color: rgb(54, 54, 54);
-    color: white;
+
+.botao:hover{
+    cursor: pointer;
 }
