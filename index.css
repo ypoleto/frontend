@@ -1,9 +1,9 @@
-.botao{
+#botao{
     width: 150px;
     height: 50px;
     font-size: 20px;
 }
 
-.botao:hover{
+#botao:hover{
     cursor: pointer;
 }
